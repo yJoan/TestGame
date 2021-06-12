@@ -1,0 +1,10 @@
+birditem.o
+button.o
+gamescene.o
+main.o
+gamewindow.o
+qrc_BirdSource.o
+moc_birditem.o
+moc_button.o
+moc_gamescene.o
+moc_gamewindow.o
